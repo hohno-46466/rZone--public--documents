@@ -4,7 +4,6 @@ A public document archive for our research activities (including our publication
 
     ./rZone--public--documents
      ├──  README.md
-     ├──  README.md.old
      └──  publications/
          ├──  IPSJ/
          │   └──  README.md
@@ -12,8 +11,7 @@ A public document archive for our research activities (including our publication
          │   └──  README.md
          └──  README.md
      
-     3 directories, 5 files (Thu Nov 17 15:15:41 JST 2022)
-
+     3 directories, 4 files (Mon Nov 14 23:40:44 JST 2022)
 
 Note: URL = https://github.com/hohno-46466/rZone--public--documents
 
